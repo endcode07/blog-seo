@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: endcode07/blog-seo
+  branch: main
+  base_url: https://reviewdigital.netlify.app
+  auth_endpoint: api/auth
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "blog"
+    label: "Artikel"
+    folder: "src/content/blog"
+    create: true
+    extension: "md"
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Meta Description", name: "description", widget: "text", hint: "Max 160 aksara" }
+      - { label: "Tarikh", name: "pubDate", widget: "datetime" }
+      - { label: "Keyword", name: "keyword", widget: "string", required: false }
+      - { label: "Isi", name: "body", widget: "markdown" }
