@@ -6,3 +6,5 @@ keyword: power siot
 heroImage: ../../assets/images/img_20261014_130006_509.jpg
 ---
 weh power siot.  mcm mn nak masuk image kat sini?
+
+![](../../assets/images/img_20261014_130006_509.jpg)
