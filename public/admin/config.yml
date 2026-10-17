@@ -22,3 +22,22 @@ collections:
       - { label: "Keyword", name: "keyword", widget: "string", required: false }
       - { label: "Gambar Utama", name: "heroImage", widget: "image", required: false }
       - { label: "Isi", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Halaman"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "src/data/home.md"
+        fields:
+          - { label: "Title (tab browser)", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+          - { label: "Tajuk Besar", name: "heading", widget: "string" }
+          - { label: "Isi", name: "body", widget: "markdown" }
+      - label: "About"
+        name: "about"
+        file: "src/data/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Meta Description", name: "description", widget: "text" }
+          - { label: "Isi", name: "body", widget: "markdown" }
