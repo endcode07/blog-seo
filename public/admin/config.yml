@@ -14,9 +14,10 @@ collections:
     folder: "src/content/blog"
     create: true
     extension: "md"
-    slug: "{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug (URL)", name: "slug", widget: "string", hint: "Huruf kecil dan tanda -, contoh: review-fb-viral-autopost-v2", pattern: ["^[a-z0-9-]+$", "Huruf kecil, nombor dan - sahaja"] }
       - { label: "Meta Description", name: "description", widget: "text", hint: "Max 160 aksara" }
       - { label: "Tarikh", name: "pubDate", widget: "datetime" }
       - { label: "Keyword", name: "keyword", widget: "string", required: false }
