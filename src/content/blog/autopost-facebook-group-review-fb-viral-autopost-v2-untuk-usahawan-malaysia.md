@@ -1,5 +1,6 @@
 ---
 title: "Autopost Facebook Group: Review FB Viral AutoPost V2 Untuk Usahawan Malaysia"
+slug: fb-autopost-group-review
 description: "Review FB Viral AutoPost V2: fungsi autopost Facebook group, harga
   RM99, bonus dan perkara perlu diambil kira sebelum beli. Disemak Oktober
   2026."
