@@ -130,6 +130,17 @@ Akses Akademi WhatsApp Group Marketing, 18 video
 Untuk strategi lebih luas, baca zero cost marketing Facebook: 5 strategi guna group.
 
 Demo sofware fb autopost group
+<div style="position:relative;width:100%;max-width:800px;margin:1.5em auto;aspect-ratio:16/9;">
+  <iframe
+    src="https://www.youtube.com/embed/xyHyEAsFTHw"
+    title="Demo FB Viral AutoPost V2"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Soalan Lazim
 
