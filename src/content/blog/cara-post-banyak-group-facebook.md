@@ -5,7 +5,7 @@ description: Nak sebar promosi ke puluhan group Facebook tanpa buka satu-satu?
   Ikut 5 langkah ini, dari pilih group sampai semak log hasil posting.
 pubDate: 2026-10-20T10:22:00.000+08:00
 keyword: cara post ke banyak group facebook sekali gus
-heroImage: ../../assets/images/file_00000000e55c81fa98f4d463abe9b170.png
+heroImage: ../../assets/images/file_000000009a448211a1d3c67397531776.png
 ---
 Pukul 10 malam. Caption promosi dah siap, gambar pun dah cantik. Tapi masih ada 30 group yang belum anda post. Buka group pertama, paste, upload, tunggu, dan baru anda sedar masih ada 29 lagi.
 
