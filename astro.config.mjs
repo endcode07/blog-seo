@@ -6,7 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://reviewdigital.netlify.app',
+	site: 'https://reviewdigital.pages.dev',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
