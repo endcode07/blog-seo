@@ -116,4 +116,7 @@ heroImage: ../../assets/images/autopost-facebook-android.png
 
 <h2>Kesimpulan</h2>
 
-<p>Autopost Facebook Android memang boleh dilakukan untuk t
+<p>Autopost Facebook Android memang boleh dilakukan untuk telefon yang menyokong extension Chrome, dan dashboard web membolehkan anda memantau dari mana-mana. Cuma, sahkan keserasian telefon anda dahulu dan mulakan dengan kempen kecil. Untuk menonton demo dan semak harga semasa, lawati laman rasmi.</p>
+
+<p>👉 <strong><a href="https://tinyurl.com/autopostgrup" target="_blank" rel="sponsored noopener">Semak demo, harga dan bonus terkini</a></strong></p>
+
